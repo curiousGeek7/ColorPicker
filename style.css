@@ -17,6 +17,20 @@ h1{
     width: 100%;
 }
 
+input:focus, textarea:focus, select:focus {
+    outline: none;
+}
+
+.color1{
+    height: 40px;
+    border-radius: 25px;
+}
+
+.color2{
+    height: 40px;
+    border-radius: 25px;
+}
+
 h3{
     font: 900 1em 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
